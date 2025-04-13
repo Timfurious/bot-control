@@ -71,18 +71,19 @@ Modifier
 | 14] List all members        |
 
 ==============================
+
 📦 Requirements
+
 Python 3.8+
 
 discord.py (latest version with message_content intents)
 
 Install dependencies:
 
-bash
-Copier
-Modifier
 pip install -U discord.py
+
 🔑 Setup Instructions
+
 Create a Discord bot via the Discord Developer Portal.
 
 Enable the necessary privileged intents:
