@@ -37,22 +37,39 @@ plaintext
 Copier
 Modifier
 ==============================
+
 |        Bot Interface        |
+
 ==============================
+
 | 1] Ban a member             |
+
 | 2] Create a webhook         |
+
 | 3] Generate an invite link |
+
 | 4] Send a message           |
+
 | 5] Delete messages          |
+
 | 6] Kick a member            |
+
 | 7] Execute code             |
+
 | 8] Change nickname          |
+
 | 9] Show member info         |
+
 | 10] List all channels       |
+
 | 11] Unban a member          |
+
 | 12] Create admin role       |
+
 | 13] Assign role to member   |
+
 | 14] List all members        |
+
 ==============================
 📦 Requirements
 Python 3.8+
